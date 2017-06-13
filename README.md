@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 
 ## add deployment
 
+Here is the description of the deployment information
+
 ## How to Continue
+
+Aniything else wathever you want
